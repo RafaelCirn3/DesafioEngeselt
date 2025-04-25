@@ -10,3 +10,7 @@ Route::get('/', function () {
 });
 Route::resource('produtos', ProdutoController::class);
 Route::resource('confeitarias', ConfeitariaController::class);
+
+Route::get('/teste', function () {
+    return response()->json(['ok' => true]);
+});
