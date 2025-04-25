@@ -10,8 +10,8 @@ Este projeto é um desafio técnico de estágio e consiste no desenvolvimento de
 - **Front-end**: Vue.js
 - **Integração**: Inertia.js
 - **Banco de Dados**: PostgreSQL
-- **Mapa Interativo**: Leaflet.js (diferencial)
-- **Testes Automatizados**: PHPUnit / Jest (diferencial)
+- **Mapa Interativo**: Leaflet.js (diferencial) - a ser feito
+- **Testes Automatizados**: PHPUnit / Jest (diferencial) - a ser feito 
 
 ---
 
