@@ -120,6 +120,7 @@ Este projeto é um desafio técnico de estágio e consiste no desenvolvimento de
 
 6. Inicie o servidor de desenvolvimento:
    ```bash
+   php artisan key:generate
    php artisan serve
    ```
 
