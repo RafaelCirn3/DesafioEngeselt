@@ -97,7 +97,7 @@ Este projeto é um desafio técnico de estágio e consiste no desenvolvimento de
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/marketplace-confeitarias.git
+   git clone https://github.com/rafaelcirn3/marketplace-confeitarias.git
    cd marketplace-confeitarias
    ```
 
